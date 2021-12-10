@@ -71,6 +71,6 @@ if abs(diff_percent) > 5:
 #           4. In bash console type 'Python3 main.py' to run your code.
 #           5. Then move to the task section and set time according to your country timeline and in text box type 'Python3 main.py'
 #           6. Press Create.
-#           7. Now you will recieve SMS alert every daya on your suggested time.
+#           7. Now you will recieve SMS alert every day on your suggested time.
 
 
