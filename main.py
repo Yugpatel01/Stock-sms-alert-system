@@ -66,7 +66,7 @@ if abs(diff_percent) > 5:
 # NOTE:
 #           TO get SMS alert every morning 
 #           1. you have to create acc on https://www.pythonanywhere.com.
-#           2. upload this file (main.py) in Files section.
+#           2. Upload this file (main.py) in Files section.
 #           3. After uploading double tab main.py and open bash console.
 #           4. In bash console type 'Python3 main.py' to run your code.
 #           5. Then move to the task section and set time according to your country timeline and in text box type 'Python3 main.py'
